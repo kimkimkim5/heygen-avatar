@@ -28,7 +28,7 @@ import { AVATARS } from "@/app/lib/constants";
 const DEFAULT_CONFIG: StartAvatarRequest = {
   quality: AvatarQuality.Low,
   avatarName: AVATARS[0].avatar_id,
-  knowledgeId: undefined,
+  knowledgeId: "d85741c6778a4986ba36f2e742793212",
   voice: {
     rate: 1.5,
     emotion: VoiceEmotion.EXCITED,

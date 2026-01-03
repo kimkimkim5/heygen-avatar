@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HeyGen Interactive Avatar NextJS Demo
 
 ![HeyGen Interactive Avatar NextJS Demo Screenshot](./public/demo.png)
@@ -40,3 +41,7 @@ You can create your own custom Interactive Avatars at labs.heygen.com/interactiv
 ### Where can I read more about enterprise-level usage of the Interactive Avatar API?
 
 Please read our Interactive Avatar 101 article for more information on pricing: https://help.heygen.com/en/articles/9182113-interactive-avatar-101-your-ultimate-guide
+=======
+# heygen-avatar
+heygen-avatar
+>>>>>>> 02b89525fe05b0f804d34a8ed01e13dd3f2a3b30
